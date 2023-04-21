@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<br>My name is Lawunn Khaing---------------------</br>
+### Hi there 👋 I'm Lawunn
 <br>I'm an enthusiastic IT student With a sharp mind and a natural aptitude for technology, I've honed my skills in a variety of programming languages, including C, C++, Arduino, C#, HTML, Java, CSS, and PHP. My insatiable curiosity drives me to continually learn new technologies and explore innovative programming concepts.</br>
 <br>If you're looking for a dynamic and driven IT student with a passion for programming, then look no further. Let's connect and see what we can create together!</br> 
 <br>🌍  I'm based in Finland* </br>
