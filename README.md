@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Lawunn
-<p align="middle">
-<img src="[https://media0.giphy.com/media/zPfcyMT5MG8hjTrnkm/giphy.gif?cid=ecf05e47qv3w6mtuaxde3uwu6pjbgqqwnb4hwyh7a0aqz0ou&rid=giphy.gif&ct=g](https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966)" width="36" height="36" alt="JavaScript" /></p>
+<img src="https://i.gifer.com/origin/e0/e08f73642d422d94483c0ca96f737ac2_w200.gif" width="36" height="36" alt="JavaScript" />
 
 <br>If you're looking for a dynamic and driven IT student with a passion for programming, then look no further. Let's connect and see what we can create together!</br> 
 <br>🌎  I'm based in Finland 🇫🇮 </br>
