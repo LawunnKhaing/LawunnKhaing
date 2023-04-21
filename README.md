@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm Lawunn
 <br>If you're looking for a dynamic and driven IT student with a passion for programming, then look no further. Let's connect and see what we can create together!</br> 
-<br>🌍  I'm based in Finland </br>
-<br>✉️  You can contact me at [lawunnkhaing16@gmail.com](mailto:lawunnkhaing16@gmail.com) </br>
-
+<br>🌎  I'm based in Finland 🇫🇮 </br>
+<br>📫  You can contact me at [lawunnkhaing16@gmail.com](mailto:lawunnkhaing16@gmail.com) </br>
 
 ### Skills
 
