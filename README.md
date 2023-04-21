@@ -1,5 +1,4 @@
-### Hi there 👋 I'm Lawunn
-<img src="https://i.gifer.com/origin/e0/e08f73642d422d94483c0ca96f737ac2_w200.gif" width="36" height="36" alt="JavaScript" />
+### Hi there 👋 I'm Lawunn <img src="https://i.gifer.com/origin/f8/f8593b720e5c6c67742ced6fa2581498_w200.webp" width="36" height="36" alt="JavaScript" />
 
 <br>If you're looking for a dynamic and driven IT student with a passion for programming, then look no further. Let's connect and see what we can create together!</br> 
 <br>🌎  I'm based in Finland 🇫🇮 </br>
