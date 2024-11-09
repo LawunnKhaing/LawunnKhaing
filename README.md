@@ -1,7 +1,11 @@
-### 👉 Hi there, I'm Lawunn <img src="https://i.gifer.com/origin/f8/f8593b720e5c6c67742ced6fa2581498_w200.webp" width="45" height="40" alt="JavaScript" /> 
+### 👋 Hi there, I'm Lawunn <img src="https://i.gifer.com/origin/f8/f8593b720e5c6c67742ced6fa2581498_w200.webp" width="45" height="40" alt="JavaScript" /> 
 
-<br>If you're looking for a dynamic and driven IT student with a passion for programming, then look no further. Let's connect and see what we can create together!</br> 
-<br>🌎  I'm based in Finland 🇫🇮 </br>
+<br>🌟 I am a passionate and driven IT student with a knack for mobile development and a love for problem-solving. I enjoy creating innovative applications, exploring new technologies, and collaborating with diverse teams to turn ideas into impactful solutions.</br>
+
+<br>🌍 Based in Finland 🇫🇮, I'm currently specializing in mobile development and networking stuffs while pursuing my studies in Information Technology. My journey has allowed me to work on exciting projects, including crafting mobile apps and engaging user experiences. Whether it’s designing sleek interfaces or optimizing backend logic, I strive for excellence and efficiency in everything I build.</br>
+
+<br>💬 I'm always eager to connect, learn, and collaborate on new challenges. If you're looking for a motivated developer with strong technical expertise and a creative mindset, let's get in touch!</br>
+
 <br>📫  You can contact me at [elakh001@edu.xamk.fi.com](mailto:elakh001@edu.xamk.fi) </br>
 
 
