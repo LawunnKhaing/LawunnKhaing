@@ -4,6 +4,8 @@
 
 <br>🌍 Based in Finland 🇫🇮, I'm currently specializing in mobile development and networking stuffs while pursuing my studies in Information Technology. My journey has allowed me to work on exciting projects, including crafting mobile apps and engaging user experiences. Whether it’s designing sleek interfaces or optimizing backend logic, I strive for excellence and efficiency in everything I build.</br>
 
+<br>🌐 Check out my portfolio at <a href="https://lawunnkhaing.netlify.app/" target="_blank" rel="noreferrer">lawunnkhaing.netlify.app</a></br>
+
 <br>💬 I'm always eager to connect, learn, and collaborate on new challenges. If you're looking for a motivated developer with strong technical expertise and a creative mindset, let's get in touch!</br>
 
 <br>📫  You can contact me at [elakh001@edu.xamk.fi.com](mailto:elakh001@edu.xamk.fi) </br>
