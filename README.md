@@ -8,7 +8,7 @@
 
 <br>💬 I'm always eager to connect, learn, and collaborate on new challenges. If you're looking for a motivated developer with strong technical expertise and a creative mindset, let's get in touch!</br>
 
-<br>📫  You can contact me at [elakh001@edu.xamk.fi.com](mailto:elakh001@edu.xamk.fi) </br>
+<br>📫  You can contact me at [elakh001@edu.xamk.fi](mailto:elakh001@edu.xamk.fi) </br>
 
 
 
